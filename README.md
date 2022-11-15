@@ -1,10 +1,7 @@
 # Search-Engine
 A basic  search engine made by using Tkinter
 Kindly refer the following for bettter understanding:-
-................
-..........
-.....
-..
+
 
 
 ![A Project Report on Astronomical metdata (1)1](https://user-images.githubusercontent.com/89240074/201841745-efee72c5-3018-4322-b15b-02c254d06760.jpg)
