@@ -1,6 +1,6 @@
 # Search-Engine
 A basic  search engine made by using Tkinter
-Kindly refer the following for bettter understanding:-
+Kindly refer to the following for better understanding:-
 
 
 
